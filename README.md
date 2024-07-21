@@ -1,5 +1,13 @@
-# How to run file
+# About
+"""
+Invoice reader
+Acepcts a invoice or an image 
+Image is converted into byte data and pass it into Gemmini llm model
+response from the model is displayed
 
+"""
+
+# How to run file
 create new environment--   conda create -p venv pyhton==3.10 
 
 activate environment--     conda activate venv 
