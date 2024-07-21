@@ -1,9 +1,10 @@
 # About
 """
-Invoice reader
-Acepcts a invoice or an image 
-Image is converted into byte data and pass it into Gemmini llm model
-response from the model is displayed
+Invoice Reader:
+
+Accepts an invoice or an image.
+Converts the image into byte data and passes it into the Gemini LLM model.
+Displays the response from the model
 
 """
 
